@@ -47,3 +47,11 @@ input {
   padding: 5px;
   border: 1px solid #ccc;
 }
+
+.state-group {
+  width: 200px; float:left; height:100px; margin:10px
+}
+
+.gh-users-group {
+  width: 200px; float:left; height:100px; margin:10px
+}
